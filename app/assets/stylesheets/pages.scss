@@ -90,6 +90,17 @@
   .table-wrapper-scroll-y {
     display: block;
   }
+
+
+  .dtHorizontalExampleWrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    }
+    #dtHorizontalExample th, td {
+    white-space: nowrap;
+    }
+
+
   
   .tableFixHead {
     overflow-y: auto;
@@ -201,3 +212,5 @@
     .cover {
       object-fit: cover;
     }
+
+    

@@ -40,6 +40,9 @@
  figure {
     margin-left: 6% !important;
  }
+ figure {
+    width: 460px;
+    }
 
  blockquote {
     margin: 0;
